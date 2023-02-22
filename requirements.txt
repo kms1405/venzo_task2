@@ -1,0 +1,8 @@
+Django
+djangorestframework
+mysql
+mysql-connector
+mysqlclient
+pandas
+PyMySQL
+SQLAlchemy==1.4.46
